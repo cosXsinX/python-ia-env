@@ -1,0 +1,1 @@
+docker run -p 8080:8080 -p 8888:8888 -v "$(pwd)/workspace:/workspace" python-ia-env
